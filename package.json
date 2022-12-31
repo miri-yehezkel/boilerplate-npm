@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miri Yehezkel",
+	"description": "A backend Development learning course on FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
