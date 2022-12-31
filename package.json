@@ -3,6 +3,7 @@
 	"author": "Miri Yehezkel",
 	"description": "A backend Development learning course on FreeCodeCamp",
 	"keywords": ["freecodecamp", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
